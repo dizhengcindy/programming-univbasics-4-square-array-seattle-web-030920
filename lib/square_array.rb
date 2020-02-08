@@ -7,5 +7,5 @@ def square_array(array)
    array[counter] = new
    counter +=1
    end
-   
+   return array
 end
